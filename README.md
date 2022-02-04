@@ -1,4 +1,5 @@
-# Supervised_Machine_Learning
+# Predicting Credit Risk
+
 ## In this assignment, I will be building a machine learning model that attempts to predict whether a loan from LendingClub will become high risk or not.
 
 ### Retreive the data 
